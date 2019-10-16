@@ -13,6 +13,7 @@ Introductory course for JS/React/Redux/Saga ecosystem
 5. Advanced react
 6. [Redux](https://github.com/Nearsoft/react-school/tree/master/6-Redux)
 7. [Sagas](https://github.com/Nearsoft/react-school/tree/master/7-Sagas)
+8. [Project](https://github.com/Nearsoft/react-school/tree/master/UI)
 
 ## Exercises
 
